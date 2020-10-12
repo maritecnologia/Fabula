@@ -1,0 +1,70 @@
+.a3{
+	background-color: #7FFF00;
+}
+.a4{
+	background-color: #039BE5;
+}
+.a5{
+	font-color: #000033;
+	font-family: fuente1;
+    font-size: 95px;
+    position: absolute;
+    left: 20%;
+    top: 3%;
+    
+}
+.h{
+	position: absolute;
+	top: 65%;
+	width: 20%;
+	height: 30%;
+	left: 13%;
+}
+.d{
+	top: 65%;
+	position: absolute;
+	width: 20%;
+	height: 30%;
+	left: 65%;
+}
+@font-face
+{
+font-family: fuente;
+src: url(dear.ttf);
+}
+@font-face
+{
+font-family: fuente1;
+src: url(fi.ttf);
+}
+.a1{
+	display: block;
+	position: absolute;
+	top: 50px;
+	left: 350px;
+	background: red;
+	border:solid black 2px;
+	width: 400px;
+	height: 200px;
+	padding: 45px;
+	font-size: 50px;
+	color: white;
+}
+.b{
+	width: 0%;
+	height: 0%;
+	display: none;
+
+}
+.cerrar{
+	position: absolute;
+	top: 115%;
+	left: 45%;
+	background-color: #00008B;
+	border:solid #00FF00 2px;
+	width: 15%;
+	height: 8%;
+	color: #00FF00;
+	font-family: fuente1;
+	font-size: 30px;
+}
